@@ -1,1 +1,14 @@
 this is ashish gajbhiye
+stages{
+    stage1{
+     
+          }
+    stage2{
+ 
+          }
+    stage3{
+
+          }
+
+
+}
